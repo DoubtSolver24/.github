@@ -7,6 +7,8 @@
 
 [Abhishek Meshram](https://github.com/abhishek9727) - 7720943127 - Business Analyst
 
+[Avinash Mane](https://github.com/AvinashMane14) - 7350215431 - Team Lead
+
 
 
 
