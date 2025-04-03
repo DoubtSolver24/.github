@@ -6,7 +6,7 @@
 
 [Avinash Mane](https://github.com/AvinashMane14) - 7350215431 - Team Lead
 
-[Priyanka Jagtap](https://github.com/priyanka-jagtap96k) - 9356820532 - Software Engineer
+[Priyanka Jagtap](https://github.com/priyanka-jagtap96k) - 9356820532 - Jr. Software Engineer
 
 
 
